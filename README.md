@@ -56,13 +56,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RyanPuyat&show_icons=true" />
 </picture>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanPuyat&show_icons=true" />
+</picture>
 
----
-[![](https://visitcount.itsvg.in/api?id=RyanPuyat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🌐 Websites
 [![Netlify Status](https://api.netlify.com/api/v1/badges/587c66b7-57ab-479b-8712-e372c4acc93f/deploy-status)](https://app.netlify.com/sites/dietdash/deploys)
