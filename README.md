@@ -72,5 +72,9 @@
 # 🌐 Websites
 [![Netlify Status](https://api.netlify.com/api/v1/badges/587c66b7-57ab-479b-8712-e372c4acc93f/deploy-status)](https://app.netlify.com/sites/dietdash/deploys)
 
+<img src="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
