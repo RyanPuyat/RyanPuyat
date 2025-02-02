@@ -69,8 +69,8 @@
 </picture>
 <br/>
 <picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/github-snake-dark.svg" /> -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/snake.svg" alt="Snake animation" />
 </picture>
 
