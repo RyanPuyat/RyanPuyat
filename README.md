@@ -46,11 +46,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=RyanPuyat&hide_border=false"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=RyanPuyat&theme=dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=RyanPuyat&&hide_border=false"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=RyanPuyat&theme=light&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RyanPuyat&show_icons=true" />
@@ -67,14 +67,15 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RyanPuyat&show_icons=true" />
 </picture>
+<br/>
+<picture>
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/github-snake-dark.svg" /> -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/snake.svg" alt="Snake animation" />
+</picture>
 
 
-# 🌐 Websites
-[![Netlify Status](https://api.netlify.com/api/v1/badges/587c66b7-57ab-479b-8712-e372c4acc93f/deploy-status)](https://app.netlify.com/sites/dietdash/deploys)
 
-<img src="https://raw.githubusercontent.com/RyanPuyat/RyanPuyat/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
