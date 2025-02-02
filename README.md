@@ -58,11 +58,11 @@
 <br/>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPuyat&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RyanPuyat&show_icons=true" />
